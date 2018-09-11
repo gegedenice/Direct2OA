@@ -6,7 +6,7 @@ Une petite extension qui utilise le menu contextuel du navigateur (clic droit su
 
 Lorsqu'une chaine de caractère est sélectionnée avec la souris, une ligne Direct2OA est ajoutée au menu contextuel du navigateur, qui propose un sous-menu comprenant plusieurs possibilités : lancer la recherche à partir du texte sélectionné selon que celui-ci correspond à un DOI, un Pubmed ID, un titre ou une citation.
 La requête s'appuie sur l'API d'OA Button, initiative qui agrège les contenus de plusieurs dépôts pré-existants (Unpaywall Data, OpenAIRE, Base, Dissemin...)
-Toute la doc sur Open Access Button [ici] (https://openaccessbutton.org) et sur l'API [ici] (https://openaccessbutton.org/api)
+Toute la doc sur Open Access Button [ici](https://openaccessbutton.org) et sur l'API [là](https://openaccessbutton.org/api)
 
 ## Les résultats
 
