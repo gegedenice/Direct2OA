@@ -1,0 +1,32 @@
+{
+  "extensionName": {
+    "message": "Direct2OA",
+    "description": "Nom de l'extension"
+  },
+
+  "extensionDescription": {
+    "message": "Accès direct vers le document en Open Access (s'il est disponible) et sauvegarde locale (dans le navigateur) des données",
+    "description": "Description de l'extension."
+  },
+
+  "menuItemSelectionCheckAsTitle": {
+    "message": "Chercher ce titre"
+  },
+
+  "menuItemSelectionCheckAsCitation": {
+    "message": "Chercher cette citation"
+  },
+  
+    "menuItemSelectionCheckAsDoi": {
+    "message": "Chercher ce DOI"
+  },
+  
+   "menuItemSelectionCheckAsPubmedid": {
+    "message": "Chercher ce Pubmed ID"
+  },
+
+  "menuItemOpenSidebar": {
+    "message": "Ouvrir/fermer la sidebar"
+  }
+
+}

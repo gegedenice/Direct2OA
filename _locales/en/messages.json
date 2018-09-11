@@ -1,0 +1,32 @@
+{
+  "extensionName": {
+    "message": "Direct2OA",
+    "description": "Name of the extension."
+  },
+
+  "extensionDescription": {
+    "message": "Direct Access to the document in Open Access Mode (if exists) and backup data in the browser's local Storage",
+    "description": "Description of the add-on."
+  },
+
+  "menuItemSelectionCheckAsTitle": {
+    "message": "Find as a Title"
+  },
+
+  "menuItemSelectionCheckAsCitation": {
+    "message": "Find as a Citation"
+  },
+  
+    "menuItemSelectionCheckAsDoi": {
+    "message": "Find as a DOI"
+  },
+  
+   "menuItemSelectionCheckAsPubmedid": {
+    "message": "Find as a Pubmed ID"
+  },
+
+  "menuItemOpenSidebar": {
+    "message": "Open/close sidebar"
+  }
+
+}
