@@ -1,6 +1,6 @@
 # Direct2OA
 
-Une petite extension qui utilise le menu contextuel du navigateur (clic droit sur un texte sélectionné) comme un raccourci pour chercher dans l'ensemble des contenus disponibles en Open Access.
+Une petite extension (pour Firefox) qui utilise le menu contextuel du navigateur (clic droit sur un texte sélectionné) comme un raccourci pour chercher dans l'ensemble des contenus disponibles en Open Access.
 
 ## Comment ça marche
 
@@ -12,3 +12,7 @@ Toute la doc sur Open Access Button [ici](https://openaccessbutton.org) et sur l
 
 Lorsqu'un document en Open Access est trouvé, l'url correspondante s'ouvre dans une nouvelle fenêtre du navigateur donnant accès directement au contenu.
 De plus, les données (terme recherché et url) sont stockées de manière persistante dans le local storage du navigateur, et sont administrables (suppression ou édition pour ajout d'une note) dans la barre latérale du navigateur.
+
+## Installer l'add-on
+
+Depuis le market place : [https://addons.mozilla.org/fr/firefox/addon/direct2oa/](https://addons.mozilla.org/fr/firefox/addon/direct2oa/)
