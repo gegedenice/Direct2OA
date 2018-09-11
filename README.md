@@ -19,6 +19,6 @@ Depuis le market place : [https://addons.mozilla.org/fr/firefox/addon/direct2oa/
 
 ## Tester en local (sous Node)
 * Installer l'utilitaire Web-ext : npm install --global web-ext
-* Dézipper l'archive do dossier téléchargé
+* Cloner le répertoire ou télécharger et dézipper l'archive
 * dans la racine root du répertoire : web-ext run
 
