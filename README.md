@@ -16,3 +16,9 @@ De plus, les données (terme recherché et url) sont stockées de manière persi
 ## Installer l'add-on
 
 Depuis le market place : [https://addons.mozilla.org/fr/firefox/addon/direct2oa/](https://addons.mozilla.org/fr/firefox/addon/direct2oa/)
+
+## Tester en local (sous Node)
+* Installer l'utilitaire Web-ext : npm install --global web-ext
+* Dézipper l'archive do dossier téléchargé
+* dans la racine root du répertoire : web-ext run
+
